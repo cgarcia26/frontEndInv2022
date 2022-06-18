@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# crear .env con las siguientes
+
+## REACT_APP_NAME=Inventario
+## REACT_APP_BASE_URL=//localhost:5000/api
+## REACT_APP_URL_IMG=//localhost:5000/api/inventarios
